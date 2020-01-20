@@ -162,7 +162,7 @@ h1.heading.pink:after {
 .client-box {
   background-color: #fff;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.03);
-  padding: 3.5em 2em;
+  padding: 1em 1em;
   border-radius: 5px;
   border: 1px solid #eee;
   text-align: center;
@@ -171,11 +171,11 @@ h1.heading.pink:after {
   transition: all 0.2s;
 }
 .client-box .client-logo {
-  max-height: 120px;
+  height: 300 px;
 }
 .client-box h3.title {
   color: #4e4c58;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 .client-box p.tag {
   color: #7447ae;
@@ -274,7 +274,7 @@ h1.heading.pink:after {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   color: #4e4c58;
-  font-size: 2em;
+  font-size: em;
 }
 
 
